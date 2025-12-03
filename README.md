@@ -236,3 +236,11 @@ Grant materials are proprietary until submission. After award, research outputs 
 **Version**: 1.0
 
 **Next Deadline**: [To be determined after opportunity analysis]
+
+## Status
+Active
+
+## TODO
+- [ ] Continue literature review
+- [ ] Develop framework documentation
+- [ ] Prepare for publication
